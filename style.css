@@ -1,16 +1,12 @@
 h1{
     color: white;
-    font-family: "TF2 Build", "sans-serif";
-    font-weight: lighter;
+    font-family: "Azonix", "Arial Black", "Arial", "sans-serif";
     font-size: 48px;
     text-align: center;
 }
-hr{
-    color: white;
-}
 p{
     color: white;
-    font-family: "TF2 Build", sans-serif;
+    font-family: "Azonix", "Arial Black", "Arial", "sans-serif";
     font-size: 18px;
 }
 body{

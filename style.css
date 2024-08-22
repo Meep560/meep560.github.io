@@ -17,3 +17,14 @@ body{
     background-position: center;
     background-size: cover;
 }
+button{
+    background-color: #B400AA;
+    font-family: "Azonix", "Arial Black", "Arial", "sans-serif";
+    color: white;
+    border-radius: 7px;
+    border-width: 4px;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 32px;
+}

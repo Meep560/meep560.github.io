@@ -18,10 +18,10 @@ body{
     background-position: center;
     background-size: cover;
 }
-img{
+.art{
     position: relative;
     left: 50%;
-    transform: translate(-50%, -00%);
+    transform: translate(-50%, 0%);
     height: 300px;
 }
 h2{
@@ -29,4 +29,8 @@ h2{
     font-family: "Azonix", "Arial Black", "Arial", "sans-serif";
     font-size: 32px;
     text-align: center;
+}
+#back{
+    position: absolute;
+    height: 79px;
 }
